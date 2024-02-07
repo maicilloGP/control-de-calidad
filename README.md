@@ -1,4 +1,4 @@
-# ![](images/ENES_Merida.jpg){width="72"}
+<img scr="images/ENES_Merida.jpg" width= "200" height= "200"/>
 
 # Ecología Teórica II
 
