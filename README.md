@@ -1,4 +1,4 @@
-<img scr="images/ENES_Merida.jpg" width= "200" height= "200"/>
+<img scr="images/ENES_Merida.jpg" width= "50" height= "50"/>
 
 # Ecología Teórica II
 
